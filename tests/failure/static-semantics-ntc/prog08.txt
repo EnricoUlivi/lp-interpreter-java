@@ -1,0 +1,8 @@
+print [1]++[3]@[4] // Dynamic error: vectors must have the same size
+
+
+
+
+
+
+

@@ -1,0 +1,5 @@
+print [1]@3 // Static error: Found  INT, expected VectorType
+
+
+
+

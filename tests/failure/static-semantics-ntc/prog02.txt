@@ -1,0 +1,4 @@
+print [true]+[2] // Dynamic error: Found BoolValue, expected IntValue
+
+
+

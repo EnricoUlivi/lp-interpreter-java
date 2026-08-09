@@ -1,0 +1,4 @@
+// tutte le asserzioni devono avere successo
+assert fst (1,true)==1;
+assert fst ([1,true]@[3,false])==[1]@[3]
+

@@ -1,0 +1,4 @@
+// tutte le asserzioni devono avere successo
+assert 3+4==7;
+assert [1]@[2]+[4]@[3]==[5]@[5]
+

@@ -1,0 +1,1 @@
+print snd [1] // Static error: Found  INT[], expected PairType[]

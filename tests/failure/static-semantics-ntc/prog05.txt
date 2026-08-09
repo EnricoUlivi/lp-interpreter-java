@@ -1,0 +1,2 @@
+print snd [1] // Dynamic error: Found IntValue, expected PairValue
+

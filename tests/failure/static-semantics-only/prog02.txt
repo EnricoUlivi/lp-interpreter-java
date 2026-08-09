@@ -1,0 +1,5 @@
+print [[1]]@[[1]@[2]] // Static error: Found  INT[2][], expected INT[1][]
+
+
+
+

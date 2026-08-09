@@ -1,0 +1,2 @@
+print [1]@[2]@[3] // stampa la stringa "VectorValue[3]"
+// il test non viene superato se il programma stampa una qualsiasi altra stringa che differisce rispetto al metodo equals()

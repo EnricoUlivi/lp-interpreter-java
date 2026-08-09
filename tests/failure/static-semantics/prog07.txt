@@ -1,0 +1,6 @@
+print !![1,true] // Static error: Found  (INT*BOOL)[], expected VectorType[]
+
+
+
+
+

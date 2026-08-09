@@ -1,0 +1,6 @@
+print fst [1] // Dynamic error: Found IntValue, expected PairValue
+
+
+
+
+

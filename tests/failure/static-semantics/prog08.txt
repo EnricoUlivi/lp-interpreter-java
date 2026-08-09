@@ -1,0 +1,7 @@
+print [1]++[3]@[4] // Static error: Found  VectorType[2], expected VectorType[1]
+
+
+
+
+
+

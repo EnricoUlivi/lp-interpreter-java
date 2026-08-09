@@ -1,0 +1,1 @@
+print [1]+[2]@[3] // Static error: Found  INT[2], expected INT[1]

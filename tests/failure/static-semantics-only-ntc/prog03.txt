@@ -1,0 +1,6 @@
+print !!([[1]]@[[true]@[2]]) // stampa VectorValue[3]
+
+
+
+
+

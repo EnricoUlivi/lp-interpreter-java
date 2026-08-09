@@ -1,0 +1,4 @@
+// tutte le asserzioni devono avere successo
+assert snd (1,true);
+assert snd ([1,true]@[3,false])==[true]@[false]
+

@@ -1,0 +1,5 @@
+print !!([[1]]@[[true]@[2]]) // Static error: Found  INT[], expected BOOL[]
+
+
+
+
