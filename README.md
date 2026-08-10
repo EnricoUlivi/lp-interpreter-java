@@ -8,14 +8,14 @@
 
 ---
 
-## 🚀 Come Eseguire l'Interprete
+## Come Eseguire l'Interprete
 
 L'interprete Java accetta le seguenti opzioni da riga di comando:
 * `-i <filename>`: legge il programma da file (se omesso, legge da standard input).
 * `-o <filename>`: salva l'output su file (se omesso, usa lo standard output).
 * `-ntc`: (*no-type-checking*) esegue il programma saltando il controllo di semantica statica.
 
-### 🛠️ Compilazione
+### Compilazione
 Dalla cartella principale del progetto, compila tutti i sorgenti Java salvando i file `.class` nella cartella `bin`:
 
 ```bash
