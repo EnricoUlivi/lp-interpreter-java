@@ -1,4 +1,22 @@
-# Progetto finale LP a.a. 2025-2026
+# Progetto Finale LP a.a. 2025-2026 — Vector Language Interpreter
+
+**Università degli Studi di Genova** | Corso di Linguaggi di Programmazione  
+**Gruppo N°:35
+
+---
+
+## Come Eseguire l'Interprete
+
+L'interprete Java accetta le seguenti opzioni da riga di comando:
+* `-i <filename>`: legge il programma da file (se omesso, legge da standard input).
+* `-o <filename>`: salva l'output su file (se omesso, usa lo standard output).
+* `-ntc`: (*no-type-checking*) esegue il programma saltando il controllo di semantica statica.
+
+### 🛠️ Compilazione
+Dalla cartella principale del progetto, compila tutti i sorgenti Java salvando i file `.class` nella cartella `bin`:
+
+```bash
+javac -d bin -sourcepath src src/Main.java
 
 Il progetto finale consiste nell'implementazione di un'estensione del linguaggio sviluppato durante gli ultimi laboratori Java; la soluzione proposta per l'ultimo laboratorio può essere utilizzata come base di partenza. È comunque richiesto che le implementazioni della semantica statica e dinamica siano basate sul **visitor pattern**.
 
