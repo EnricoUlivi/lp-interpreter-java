@@ -2,9 +2,6 @@
 
 **Università degli Studi di Genova** | Corso di Linguaggi di Programmazione  
 **Gruppo N°:** 35  
-**Membri del gruppo:**
-* [Nome Cognome] - [Matricola]
-* [Nome Cognome] - [Matricola]
 
 ---
 
